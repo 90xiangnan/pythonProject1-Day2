@@ -1,0 +1,17 @@
+{
+    "Steven": {
+        "username": "Steven",
+        "password": "123",
+        "score": 1
+    },
+    "Steven2": {
+        "username": "Steven2",
+        "password": "123",
+        "score": 1
+    },
+    "1": {
+        "username": "1",
+        "password": "1",
+        "score": -15
+    }
+}
